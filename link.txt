@@ -1,4 +1,8 @@
+-Link tutorial Game Libgdx :
 https://youtu.be/WRS9SC0i0oc
 
-link resize png
+-Link resize png :
 https://onlinepngtools.com/resize-png
+
+-Link tutorial create app picture save camera :
+https://www.zoftino.com/android-capture-image-from-camera-and-save
