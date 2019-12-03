@@ -6,3 +6,5 @@ https://onlinepngtools.com/resize-png
 
 -Link tutorial create app picture save camera :
 https://www.zoftino.com/android-capture-image-from-camera-and-save
+
+https://pythonprogramming.net/python-3-tkinter-basics-tutorial/
