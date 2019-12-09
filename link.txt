@@ -7,4 +7,8 @@ https://onlinepngtools.com/resize-png
 -Link tutorial create app picture save camera :
 https://www.zoftino.com/android-capture-image-from-camera-and-save
 
+-Link Belajar Tkinter di python
 https://pythonprogramming.net/python-3-tkinter-basics-tutorial/
+
+-Link Belajar Kotlin di Android Stuio
+https://www.tutorialkart.com/kotlin-android/create-a-new-textview-programmatically-in-kotlin-android/
